@@ -21,7 +21,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sumit2002agarwal/Reduce-Your-Bits.git
+   git clone https://github.com/harshwardhan5/ByteUrBits
    ```
 
 2. Navigate to the project directory:
@@ -59,6 +59,6 @@ The Reduce Your Bits project utilizes the following technologies:
 
 
 ## Live Demo
-You can try the live demo of the application [here](https://reduceyourbits.netlify.app/).
+You can try the live demo of the application [here](https://byte-ur-bits.vercel.app/).
 
 
