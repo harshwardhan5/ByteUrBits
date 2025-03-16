@@ -47,7 +47,7 @@ function App() {
     return (
         <div className="App">
            <div className="navbar-main">
-            <img className="logofront" src="drawing.png" alt="logo" />
+            <img className="logofront" src="Drawing.png" alt="logo" />
             <h2>Huffman Encoding</h2>
             <div className="logo-name">
                
