@@ -51,7 +51,7 @@ function App() {
             <h2>Huffman Encoding</h2>
             <div className="logo-name">
                
-                <a href="https://github.com/" target="_blank">
+                <a href="https://github.com/harshwardhan5/ByteUrBits" target="_blank">
                     <img className="git-light" src="gitlogo.png" alt="logo" />
                 </a>
                 <h3>Developed by:- Kumar Harshwardhan</h3>
